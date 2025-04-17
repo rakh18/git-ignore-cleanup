@@ -9,3 +9,8 @@ editor: visual
 summary(mtcars)
 ```
 
+# New Section
+
+fix a typo
+
+footnote
